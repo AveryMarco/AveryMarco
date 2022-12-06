@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **avery@themarcos.net**
 
-- ⚡ Fun fact **I draw my own characters for my games**
+- ⚡ Fun fact: **I draw my own characters for my games**
 
 
 <h3 align="left">Languages and Tools:</h3>
