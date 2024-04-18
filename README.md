@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avery</h1>
 
-- 🔭 I’m currently working on **CSI Crime Scene App**
+- 🔭 I’m currently working on **a school project**
 
-- 🌱 I’m currently learning **How to make a GitHub Profile**
+- 🌱 I’m currently learning **Algorithms**
 
 - 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **avery@themarcos.net**
 
-- ⚡ Fun fact: **I draw my own characters for my games**
+- ⚡ Fun fact: **I draw my own characters for my games with piskel art**
 
 
 <h3 align="left">Languages and Tools:</h3>
